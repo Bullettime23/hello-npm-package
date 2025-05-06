@@ -1,6 +1,6 @@
 {
   "name": "@lev_medvedev/hello-npm-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The first package I try to publish",
   "main": "index.js",
   "type": "module",
