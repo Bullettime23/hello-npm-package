@@ -1,0 +1,24 @@
+{
+  "name": "@lev_medvedev/hello-npm-package",
+  "version": "1.0.3",
+  "description": "The first package I try to publish",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bullettime23/hello-npm-package.git"
+  },
+  "keywords": [
+    "NPM",
+    "Tutorial"
+  ],
+  "author": "Lev Medvedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bullettime23/hello-npm-package/issues"
+  },
+  "homepage": "https://github.com/Bullettime23/hello-npm-package#readme"
+}
